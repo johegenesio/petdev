@@ -1,3 +1,20 @@
+# PetShop Dev
+Projeto de aprendizado do canal SujeitoProgramador
+
+## Ferramenta
+- ReactJS (NextJS)
+
+## Link
+[https://petshopdev-johegenesio.vercel.app/](https://petshopdev-johegenesio.vercel.app/)
+
+<br>
+
+<div>
+  <img width="100%" height="100" alt="Image" src="https://github.com/user-attachments/assets/1ab62063-712b-4536-b202-9ae08c52c81e" />
+</div>
+
+<br>
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
