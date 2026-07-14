@@ -10,7 +10,7 @@ Projeto de aprendizado do canal SujeitoProgramador
 <br>
 
 <div>
-  <img width="100%" height="100" alt="Image" src="https://github.com/user-attachments/assets/1ab62063-712b-4536-b202-9ae08c52c81e" />
+  <img width="100%" height="100" alt="Image" src="https://github.com/user-attachments/assets/61c6a8f9-4ca2-488e-aa7d-9dc8b52a8c86" />
 </div>
 
 <br>
